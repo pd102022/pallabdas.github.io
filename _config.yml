@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pallab Das"
+  name             : "PALLAB DAS"
   avatar           : "PP50.jpg"
-  bio              : "Research Scientist"
-  location         : "Singapore"
-  employer         : "Nanyang Technological University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "RESEARCH SCIENTIST"
+  location         : "SINGAPORE"
+  employer         : "NTU, SINGAPORE"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=78T-abAAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Pallab-Das-3"  # example: "https://www.researchgate.net/profile/Pallab-Das-3"
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"pd102022"
+ # github           : #"pd102022"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4291-8365"
