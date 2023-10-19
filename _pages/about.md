@@ -1,12 +1,21 @@
----
-permalink: /
-title: "Welcome to Pallab's Page"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h1 {
+            color: purple;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to Pallab's Page</h1>
+
+<p>About me</p>
+
+</body>
+</html>
+
 An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
 
 ## <span style="color: blue;">Professional Experience </span>
@@ -21,14 +30,11 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
 ## <span style="color: blue;">Technical Skills </span> 
-<div style="column-count: 2;">
-    - MATLAB
-    - Python
-    - COSMO-RS
-    - Chemometrics
-    - COMSOL
-    - Multiphysics
-</div>
+Column 1            | Column 2
+------------------- | ----------------
+- MATLAB            | - Python
+- COSMO-RS          | - Chemometrics
+- COMSOL            | - Multiphysics
 
 ## <span style="color: blue;">Education</span>
 - Ph.D. in Chemical Engineering, IIT Guwahati, India (November 2019)
