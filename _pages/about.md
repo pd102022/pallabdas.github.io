@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color: blue; font-size: 18px; text-align: justify;">
+<span style="color: Grey; font-size: 18px; text-align: justify;">
 An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
 </span>
 ## <span style="color: blue;">Professional Experience </span>
@@ -20,6 +20,11 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Advanced E-Waste Plastic Decontamination Methods_: Engineered environmentally sustainable techniques for the decontamination of e-waste plastics, contributing to cleaner and safer recycling processes.
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
+
+**PhD @ Nanyang Technological Univerity (_2019 - Feb 2023_)**
+
+
+
 
 Technical Skills
 ======
