@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "<span style='color: purple;'>Welcome to Pallab's Page</span>"
+title: "<span style='color: blue;'>Welcome to Pallab's Page</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
+<span style='color: blue; An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.</span>
 
 ## <span style="color: blue;">Professional Experience </span>
 **Research Fellow @ Collaboration Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
