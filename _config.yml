@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "PALLAB DAS"
   avatar           : "IMG_42481.jpg"
+  theme            : jekyll-theme-minimal
   bio              : "RESEARCH SCIENTIST"
   location         : "SINGAPORE"
   employer         : "NTU, SINGAPORE"
