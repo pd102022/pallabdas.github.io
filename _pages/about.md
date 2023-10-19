@@ -35,7 +35,7 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - M. Tech. in Chemical Engineering, IIT Kharagpur, India (June 2013)
 - B.E. in Chemical Engineering, Gauhati University, India (May 2011)
 
-## Publications
+## <span style="color: blue;">Publications/span>
 1.	Pallab Das and Pankaj Tiwari, ‘Thermal degradation kinetics of plastics and model selection', Thermochimica Acta, Vol. 654, pp. 191-202 (2017) 
 2.	Pallab Das and Pankaj Tiwari, ‘Valorization of packaging plastic waste by slow pyrolysis,' Resources, Conservation and Recycling, vol. 128, pp. 69-77 (2018) 
 3.	Pallab Das and Pankaj Tiwari, ‘The effect of slow pyrolysis on the conversion of plastic waste into fuel', Waste management, vol. 79, pp. 615 – 624 (2018) 
