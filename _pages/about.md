@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Pallab's Page"
+title:<span style="color: blue;">Welcome to Pallab's Page </span> 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
