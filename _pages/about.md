@@ -20,7 +20,7 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
-#### <span style="color: blue;">Technical Skills </span>: 
+## <span style="color: blue;">Technical Skills </span>: 
 <div style="column-count: 2;">
     - MATLAB
     - Python
