@@ -22,11 +22,10 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
 **PhD @ Indian Institute of technology(_Jun 2013 -  Sep 2019_)**
-- Solid state kinetic: Evaluation of degradation kinetic parameters as the 
+- Solid state kinetic: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
+- Critical future technology: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
 
-
-
-Technical Skills
+## <span style="color: blue;">Technical Skills</span>Technical Skills
 ======
 - MATLAB
 - Python
