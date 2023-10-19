@@ -7,12 +7,11 @@ main:
     url: /publications/
 
   
-  - title: "Research Profile"
-    url: /research Profile/
+  - title: "Contact"
+    url: /contact/
         
     
   - title: "Work Experience"
     url: /work experience/
     
-  - title: "Interests"
-    url: /interests/
+
