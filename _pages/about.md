@@ -38,4 +38,5 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 4.	Pallab Das and Pankaj Tiwari, Thermal degradation study of waste polyethylene terephthalate (PET) under inert and oxidative environment, Thermochimica Acta, vol. 679, 178340 (2019) 
 5.	Pallab Das, Jean-Christophe P. Gabriel, Chor Yong Tay, Jong-Min Lee, 2021. Value-added products from thermochemical treatments of contaminated e-waste plastics. Chemosphere, 269, 129409. 
 6.	Chunmiao Jia, Pallab Das, Qiang Zeng, Jean-Christophe P Gabriel, Chor Yong Tay, Jong-Min Lee, Activated recovery of PVC from contaminated waste extension cord-cable using a weak acid, Chemosphere 303 (1), 
-
+7.	Chunmiao Jia, Pallab Das, Insup Kim, Yong-Jin Yoon, Chor Yong Tay, Jong-Min Lee, Applications, treatments, and reuse of plastics from electrical and electronic equipment, Journal of Industrial and Engineering Chemistry, 110, 2022, pg. 84-99 
+8.	Pallab Das, Qiang Zeng, Antoine Leybros, Jean-Christophe P. Gabriel, Chor Yong Tay, Jong-Min Lee, Enhanced extraction of brominated flame retardants from e-waste plastics, Chemical Engineering Journal, 469, 2023, 144126 
