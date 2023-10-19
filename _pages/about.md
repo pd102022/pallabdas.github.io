@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style='color: blue; An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.</span>
-
+<span style="color: blue; font-size: 14px;">
+An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
+</span>
 ## <span style="color: blue;">Professional Experience </span>
 **Research Fellow @ Collaboration Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
 - _Exploring Electronic Component Reusability_: Conducted a comprehensive feasibility study on the potential reusability of electronic components extracted from automotive Printed Circuit Boards (PCBs) through meticulous disassembly and advanced AI-driven sorting.
