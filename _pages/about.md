@@ -1,20 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        h1 {
-            color: purple;
-        }
-    </style>
-</head>
-<body>
-
-<h1>Welcome to Pallab's Page</h1>
-
-<p>About me</p>
-
-</body>
-</html>
+---
+permalink: /
+title: "Welcome to Pallab's Page"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
 
