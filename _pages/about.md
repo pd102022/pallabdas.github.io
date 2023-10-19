@@ -7,16 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <span style="color: Grey; font-size: 18px; text-align: justify;">
-An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
+An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology. Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
 </span>
+
 ## <span style="color: blue;">Professional Experience </span>
+
 **Research Fellow @ Collaboration Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
 - _Exploring Electronic Component Reusability_: Conducted a comprehensive feasibility study on the potential reusability of electronic components extracted from automotive Printed Circuit Boards (PCBs) through meticulous disassembly and advanced AI-driven sorting.
 - _Strategic Business Model_: Formulated a business model to assess the economic viability and sustainability of reutilizing these electronic components, highlighting their financial implications.
 - _Holistic Carbon Footprint Analysis_: Pioneered a model for the comprehensive evaluation of the total carbon footprint, specifically in the context of reusing discarded electronic components, providing insights into environmental impact.
 
-**Research Fellow @ Nanyang Technological Univerity (_2019 - Feb 2023_)**
+**Research Fellow @ Nanyang Technological Univerity, Singapore (_2019 - Feb 2023_)**
 
 <span style="color: Grey; font-size: 14px; text-align: justify;">
 _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint laboratory between NTU Singapore and the French Alternative Energies and Atomic Energy Commission (CEA)_
@@ -26,7 +29,7 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
-**PhD @ Indian Institute of technology(_Jun 2013 -  Sep 2019_)**
+**PhD @ Indian Institute of technology, Guwahati, India(_Jun 2013 -  Sep 2019_)**
 - Solid state kinetic: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
 - Critical future technology: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
 
