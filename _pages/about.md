@@ -23,10 +23,10 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 
 #### Technical Skills: MATLAB, Python, COSMO-RS, Chemometrics, COMSOL-Multiphysics
 
-## Education
-- Ph.D., Chemical University | IIT Guwahati, India (_November, 2019_)								       		
-- M. Tech., Chemical Engineering | IIT Kharagpur, India (_June, 2013_)	 			        		
-- B.E., Chemical Engineering | Gauhati University, India (_May 2011_)
+## <span style="color: blue;">Education</span>
+- Ph.D. in Chemical Engineering, IIT Guwahati, India (November 2019)
+- M. Tech. in Chemical Engineering, IIT Kharagpur, India (June 2013)
+- B.E. in Chemical Engineering, Gauhati University, India (May 2011)
 
 ## Publications
 1.	Pallab Das and Pankaj Tiwari, ‘Thermal degradation kinetics of plastics and model selection', Thermochimica Acta, Vol. 654, pp. 191-202 (2017) 
