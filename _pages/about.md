@@ -21,6 +21,7 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
 ## <span style="color: blue;">Technical Skills </span> 
+
 - MATLAB            | Python
 - COSMO-RS          | Chemometrics
 - COMSOL            | Multiphysics
