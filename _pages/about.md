@@ -33,8 +33,8 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - Solid state kinetic: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
 - Critical future technology: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
 
-## <span style="color: blue;">Technical Skills</span>Key Skills
-======
+## <span style="color: blue;">Key Skills</span>
+
 - Project management
 - Research/proposal Writing
 - Material characterisation
