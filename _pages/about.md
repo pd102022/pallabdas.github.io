@@ -36,6 +36,7 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - Research/proposal Writing
 - Material characterisation
 - Thermochemical process development
+- Plastic waste recycling and process development
 - Machine learning and data analysis
 - Chemical kinetics and design
 - Sustainability and green technology
