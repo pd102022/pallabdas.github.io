@@ -9,7 +9,7 @@ redirect_from:
 ---
 An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology . Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
 
-## Professional Experience
+## <span style="color: blue;">Professional Experience </span>
 **Research Fellow @ Collaboration Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
 - _Exploring Electronic Component Reusability_: Conducted a comprehensive feasibility study on the potential reusability of electronic components extracted from automotive Printed Circuit Boards (PCBs) through meticulous disassembly and advanced AI-driven sorting.
 - _Strategic Business Model_: Formulated a business model to assess the economic viability and sustainability of reutilizing these electronic components, highlighting their financial implications.
@@ -20,7 +20,15 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
-#### Technical Skills: MATLAB, Python, COSMO-RS, Chemometrics, COMSOL-Multiphysics
+#### <span style="color: blue;">Technical Skills </span>: 
+<div style="column-count: 2;">
+    - MATLAB
+    - Python
+    - COSMO-RS
+    - Chemometrics
+    - COMSOL
+    - Multiphysics
+</div>
 
 ## <span style="color: blue;">Education</span>
 - Ph.D. in Chemical Engineering, IIT Guwahati, India (November 2019)
