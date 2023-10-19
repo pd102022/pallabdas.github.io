@@ -22,9 +22,12 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 
 ## <span style="color: blue;">Technical Skills </span> 
 
-- MATLAB            | Python
-- COSMO-RS          | Chemometrics
-- COMSOL            | Multiphysics
+- MATLAB
+- Python
+- COSMO-RS
+- Chemometrics
+- COMSOL
+- Multiphysics
 
 ## <span style="color: blue;">Education</span>
 - Ph.D. in Chemical Engineering, IIT Guwahati, India (November 2019)
