@@ -17,6 +17,9 @@ An enthusiastic and accomplished researcher with a PhD in Chemical Engineering f
 - _Holistic Carbon Footprint Analysis_: Pioneered a model for the comprehensive evaluation of the total carbon footprint, specifically in the context of reusing discarded electronic components, providing insights into environmental impact.
 
 **Research Fellow @ Nanyang Technological Univerity (_2019 - Feb 2023_)**
+<span style="color: Grey; font-size: 14px; text-align: justify;">
+_Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint laboratory between NTU Singapore and the French Alternative Energies and Atomic Energy Commission (CEA)_
+ </span>
 - _Advanced E-Waste Plastic Decontamination Methods_: Engineered environmentally sustainable techniques for the decontamination of e-waste plastics, contributing to cleaner and safer recycling processes.
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
