@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Seasoned professional with a doctoral degree in Chemical Engineering from IIT Guwahati, bringing expertise in addressing intricate technical challenges and resolving complex problems.
-- Presently holding the position of Research Fellow at NTU Singapore, specializing in the advancement of sustainable technologies for electronic waste material recovery. Motivated to apply academic knowledge and practical experience to excel in industry-specific projects, fostering professional development.
+- Specialized in the advancement of sustainable technologies for material recovery from waste, and actively collaborating with Continental Automotive Pte. Ltd. in Singapore to facilitate the transfer of technology from laboratory-scale to industrial-scale applications.
 
 
 ## <span style="color: blue;">Professional Experience </span>
