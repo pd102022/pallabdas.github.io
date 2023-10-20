@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <span style="color: Grey; font-size: 18px; text-align: justify;">
-An enthusiastic and accomplished researcher with a PhD in Chemical Engineering from IIT Guwahati. Proficient in investigating and working out solutions, with knowledge in dealing with intricate physical issues and currently employed as a research fellow at one of the top institutes, NTU Singapore, in the area of electronic waste recycling for material recovery by developing sustainable technology. Seeking to apply talents and experience in a demanding role to progress both professionally and personally.
+-Seasoned professional with a doctoral degree in Chemical Engineering from IIT Guwahati, offering a strong background in tackling intricate technical challenges and solving complex problems.
+-Currently serving as a Research Fellow at NTU Singapore, specializing in the development of sustainable technologies for material recovery from electronic waste. Eager to apply academic prowess and hands-on experience to contribute to industry-specific projects and drive professional growth.
 </span>
 
 ## <span style="color: blue;">Professional Experience </span>
@@ -30,8 +31,8 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
 **PhD @ Indian Institute of technology, Guwahati, India(_Jun 2013 -  Sep 2019_)**
-- Solid state kinetic: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
-- Critical future technology: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
+- _Solid state kinetic_: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
+- _Critical future technology_: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
 
 ## <span style="color: blue;">Key Skills</span>
 
@@ -39,9 +40,9 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - Research/proposal Writing
 - Material characterisation
 - Thermochemical process development
-- Plastic waste recycling and process development
+- Technology development for waste plastic recycling
 - Machine learning and data analysis
-- Chemical kinetics and design
+- Chemical kinetics and reaction design
 - Sustainability and green technology
 - Business acument
 - Image processing and design
