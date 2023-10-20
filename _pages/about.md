@@ -29,7 +29,7 @@ _Singapore CEA Alliance for Research in Circular Economy (SCARCE)  is a joint la
 - _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
 - _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
-**PhD @ Indian Institute of technology, Guwahati, India(_Jun 2013 -  Sep 2019_)**
+**PhD @ Indian Institute of technology, Guwahati, India (_Jun 2013 -  Sep 2019_)**
 - _Solid state kinetic_: Evaluation of degradation kinetic parameters of plastic at pyrolysis condition using advance model free numerical methods
 - _Critical future technology_: Developped and demonstrate a low temperature pyrolysis process for high quality oil yield ready for industrial implementation
 
