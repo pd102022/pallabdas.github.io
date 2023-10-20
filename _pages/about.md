@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <span style="color: Grey; font-size: 18px; text-align: justify;">
--Seasoned professional with a doctoral degree in Chemical Engineering from IIT Guwahati, offering a strong background in tackling intricate technical challenges and solving complex problems.
--Currently serving as a Research Fellow at NTU Singapore, specializing in the development of sustainable technologies for material recovery from electronic waste. Eager to apply academic prowess and hands-on experience to contribute to industry-specific projects and drive professional growth.
+- Seasoned professional with a doctoral degree in Chemical Engineering from IIT Guwahati, offering a strong background in tackling intricate technical challenges and solving complex problems.
+- Currently serving as a Research Fellow at NTU Singapore, specializing in the development of sustainable technologies for material recovery from electronic waste. Eager to apply academic prowess and hands-on experience to contribute to industry-specific projects and drive professional growth.
 </span>
 
 ## <span style="color: blue;">Professional Experience </span>
