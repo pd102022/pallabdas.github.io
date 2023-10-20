@@ -1,16 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Applications, treatments, and reuse of plastics from electrical and electronic equipment"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Applications, treatments, and reuse of plastics from electrical and electronic equipment
+excerpt: 'Journal of Industrial and Engineering Chemistry'
+date: june 2022
+venue: 
+paperurl: 'https://doi.org/10.1016/j.jiec.2022.03.026'
+citation: 'C. Jia, P. Das, I. Kim, Y.-J. Yoon, C. Y. Tay, and J.-M. Lee, "Applications, treatments, and reuse of plastics from electrical and electronic equipment," Journal of Industrial and Engineering Chemistry, vol. 110, pp. 84-99, 2022/06/25/ 2022.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Waste of electrical and electronic equipment (WEEE, also known as E-Waste) has emerged as a serious issue for the whole world along with the evolution of modern industry. WEEE plastic contains heavy metals (arsenic, mercury, chromium, cadmium, lead, etc.) and halogen materials (bromine, chlorine, etc.), which are toxic and harmful to the environment, therefore the recycling of WEEE plastic is necessary and critical. Not only the various additives in the polymer but also the contaminations from polychlorinated biphenyl (PCB), batteries, etc, make the recycling process challenging. In this review, the functional application of plastic in electrical and electronic equipment (EEE) including electrical insulation, heat insulation, etc, is firstly introduced. The various components and additives of plastic in EEE are provided. Moreover, the state-of-the-art treatment and recycle methods of the WEEE plastic are summarized and discussed. This review can provide a comprehensive reference for investigation of plastic in e-waste.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://github.com/pd102022/pallabdas.github.io/blob/master/files/paper6.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: C. Jia, P. Das, I. Kim, Y.-J. Yoon, C. Y. Tay, and J.-M. Lee, "Applications, treatments, and reuse of plastics from electrical and electronic equipment," Journal of Industrial and Engineering Chemistry, vol. 110, pp. 84-99, 2022/06/25/ 2022.
 
