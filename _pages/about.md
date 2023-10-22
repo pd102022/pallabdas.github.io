@@ -1,12 +1,13 @@
 ---
 permalink: /
-title:<span style="text-decoration: underline; color: blue;">Welcome to Pallab's Page</span>
+title: "Welcome to Pallab's Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 - Seasoned professional with a doctoral degree in Chemical Engineering from IIT Guwahati, bringing expertise in addressing intricate technical challenges and resolving complex problems.
 - Specialized in the advancement of sustainable technologies for material recovery from waste, and actively collaborating with Continental Automotive Pte. Ltd. in Singapore to facilitate the transfer of technology from laboratory-scale to industrial-scale applications.
